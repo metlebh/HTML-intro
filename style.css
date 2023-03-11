@@ -1,0 +1,109 @@
+.parent {
+    height: 600px;
+    width: 700px;
+    border: 5px solid rgb(15, 30, 110);
+    margin-left: 25%;
+    margin-top: 70px;
+}
+
+.sth1 {
+    margin-left: 30px;
+}
+
+.first {
+    height: 130px;
+    width: 670px;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.a1 {
+
+    margin-left: 10px;
+    
+}
+
+.a2 {
+    margin-top: 10px;
+    margin-right: 33px;
+
+}
+
+.a3 {
+    margin-left: 10px;
+    margin-right: 33px;
+    width: 20px;
+}
+
+.a4 {
+
+    margin-right: 33px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.a5 {
+    margin-left: 10px;
+    margin-right: 33px;
+}
+
+.a6 {
+
+    margin-left: 4px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.a7 {
+    margin-left: 10px;
+   
+}
+
+.a8 {
+    margin-left: 24px;
+    margin-right: 40px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.b1{
+    margin-left: 10px;
+   
+}
+.b2{
+    margin-top: 10px;
+}
+.b8{
+    margin-left: 10px;
+    margin-right: 28px;
+}
+.b9{
+    margin-right: 13px;
+}
+.b10{
+    margin-left: 10px;
+    margin-right: 22px;
+}
+.c1{
+    margin-left: 10px;
+}
+.c3{
+    margin-left: 10px;
+    
+}
+.c5{
+    margin-left: 10px;
+
+}
+.d1{
+    margin-right: 40px;
+    margin-left: 20px;
+    background-color: rgb(10, 61, 85);
+}
+.d2{
+    width: 100px;
+    background-color: rgb(10, 61, 85);
+    
+}
+
